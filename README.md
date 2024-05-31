@@ -126,6 +126,7 @@ user interface and high security.
 * **Akshay Motghare**
 * **Mandar Patil** 
 * **Aniket Narkhede**
+* **Prince Barai**
 
 ## License
 
